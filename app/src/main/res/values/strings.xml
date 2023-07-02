@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">classWorkL3</string>
+    <string name="send_message">send Message</string>
+    <string name="open_web_page">open Web Page</string>
+    <string name="show_map">show Map</string>
+</resources>
